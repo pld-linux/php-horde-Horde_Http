@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde HTTP libraries
 Name:		php-horde-Horde_Http
-Version:	1.1.0
+Version:	1.1.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	62ce12108811367b73ca3823b07061c7
+# Source0-md5:	2e34f5965cc426571534684e4cbac576
 URL:		https://github.com/horde/horde/tree/master/framework/Http/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
