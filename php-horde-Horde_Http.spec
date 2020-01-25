@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Http
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde HTTP libraries
 Name:		php-horde-Horde_Http
 Version:	1.1.1
