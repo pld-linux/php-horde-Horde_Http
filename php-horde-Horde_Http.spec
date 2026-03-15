@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde HTTP libraries
 Name:		php-horde-Horde_Http
 Version:	1.1.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
